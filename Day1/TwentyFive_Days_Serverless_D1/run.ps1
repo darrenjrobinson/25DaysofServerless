@@ -7,7 +7,7 @@ https://25daysofserverless.com/calendar/1
 Random Dreidel spinner based on 'spin strength' supplied through query.
 Results sent back in JSON
 
-/api/TwentyFiveDoS?strength=slow
+/api/TwentyFive_Days_Serverless_D1?strength=slow
 
 {
   "result": "נ Nun",
